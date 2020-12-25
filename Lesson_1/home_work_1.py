@@ -1,0 +1,5 @@
+word1 = input("Введите любое слово")
+word2 = input("Введите еще одно любое слово")
+number1 = int(input("Ведите число"))
+number2 = int(input("Ведите еще одно число"))
+print(word1, word2, number1, number2)
