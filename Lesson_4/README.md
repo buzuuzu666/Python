@@ -8,7 +8,7 @@ Homework for Python
       * [Home Work #4](#Home-Work-4)
       * [Home Work #5](#Home-Work-5)
       * [Home Work #6](#Home-Work-6)
-      * [Home Work #6](#Home-Work-6)
+      * [Home Work #6](#Home-Work-7)
       
       
       
