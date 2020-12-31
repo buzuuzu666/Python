@@ -1,0 +1,4 @@
+hello hi
+world мир
+wordpress
+zima мороз
