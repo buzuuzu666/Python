@@ -1,0 +1,4 @@
+Petrov: 18000
+Afonin: 28000
+Korchagina: 57000
+abramovich: 100
